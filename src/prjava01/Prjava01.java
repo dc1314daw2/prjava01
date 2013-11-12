@@ -26,6 +26,7 @@ public class Prjava01 {
             bw.write("    <b>daw2-m08uf4</b><br>");bw.newLine();
             bw.write("    <b>Curs 2013-2104</b><br>");bw.newLine();
             bw.write("    Nova p&agrave;gina web v0.1");bw.newLine();
+	    bw.write("    Nova p&agrave;gina web v0.2");
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
